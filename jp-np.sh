@@ -23,4 +23,4 @@ pip install jupyter
 echo " "
 echo "Installation sucessful dear"
 echo " "
-echo " Start JupyterNotebook by typing this command :- jp-nb"
+echo " Start JupyterNotebook by typing this command :- jupyter notebook"
